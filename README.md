@@ -147,14 +147,3 @@ Devendra Kushwah
 
 
 ---
-
-# 📄 requirements.txt  (Copy–Paste)
-
-```txt
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-jupyter
-
